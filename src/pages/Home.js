@@ -20,7 +20,7 @@ const Home = props => {
                 </a>
                 </li>
                 <li>
-                <a href="https://github.com/markgitau/" className="soundcloud" target="_blank" rel='noreferrer noopener'>
+                <a href="https://soundcloud.com/markgitau" className="soundcloud" target="_blank" rel='noreferrer noopener'>
                     View my SoundCloud profile →
                 </a>
                 </li>
